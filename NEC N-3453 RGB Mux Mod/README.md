@@ -1,3 +1,7 @@
+# DISCLAIMER  
+
+I am not an electrical engineer. I developed this mod using internet resources and examples, as well as trial and error. I am not responsible for any damage to your CRT or consoles, nor any injuries sustained.
+
 # NEC N-3453 RGB MUX Mod
 
 This set has an unpopulated SCART input which we can use to mount a PCB mounted SCART socket, as well as leverage portions of the unused circuit for our required components.  
