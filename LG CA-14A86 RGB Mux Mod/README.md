@@ -13,7 +13,7 @@ However, since the chassis has support for combining external RGB input as well 
 Jungle: TDA8362B
 Chassis: MC-64A
 
-[Service Manual](./res/service_manual.jpg)
+[Service Manual](./res/service_manual.png)
 
 ## Component Value Changes
 
