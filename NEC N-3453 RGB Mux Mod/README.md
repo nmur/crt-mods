@@ -36,4 +36,4 @@ Chassis: NEC MM-1
 
 Install jumper wires from R873/R876/R878/R880 to R122/R121/R120/R119, using the vacant adjacent component through holes. 
 
-Photo reference TBA
+[Photo reference](./img/wiring.jpg)
