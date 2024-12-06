@@ -1,6 +1,5 @@
-# DISCLAIMER  
-
-I am not an electrical engineer. I developed this mod using internet resources and examples, as well as trial and error. I am not responsible for any damage to your CRT or consoles, nor any injuries sustained.
+> [!WARNING]  
+> I am not an electrical engineer. I developed this mod using internet resources and examples, as well as trial and error. I am not responsible for any damage to your CRT or consoles, nor any injuries sustained.
 
 # NEC N-3453 RGB MUX Mod
 
