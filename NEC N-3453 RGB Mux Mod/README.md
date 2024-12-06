@@ -3,6 +3,8 @@
 
 # NEC N-3453 RGB MUX Mod
 
+![final](./img/final_front.jpeg)
+
 This set has an unpopulated SCART input which we can use to mount a PCB mounted SCART socket, as well as leverage portions of the unused circuit for our required components.  
 
 ## Infomation and Resources
@@ -40,3 +42,5 @@ Chassis: NEC MM-1
 Install jumper wires from R873/R876/R878/R880 to R122/R121/R120/R119, using the vacant adjacent component through holes. 
 
 [Photo reference](./img/wiring.jpg)
+
+The back case has a SCART outline which will align exactly with the socket once cut out.
