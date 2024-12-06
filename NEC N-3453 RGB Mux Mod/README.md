@@ -4,7 +4,7 @@ This set has an unpopulated SCART input which we can use to mount a PCB mounted 
 
 ## Infomation and Resources
 
-Jungle: TDA8361
+Jungle: TDA8361  
 Chassis: NEC MM-1
 
 [Service Manual (Not an exact match)](./res/service_manual.jpg)
@@ -13,7 +13,7 @@ Chassis: NEC MM-1
 
 ![Schematic](./img/schematic.png)
 
-## Component Values
+## Component Value Changes
 
 | Part #       | Component    | Value      |
 | ------------ | ------------ | ---------- |
