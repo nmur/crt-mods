@@ -35,6 +35,9 @@ Chassis: MC-64A
 | D506         | Jump         |             |
 | D506         | Jump         |             |
 | D506         | Jump         |             |
+| D503         | Diode        | 1N4148      | 
+| D504         | Diode        | 1N4148      |
+| D505         | Diode        | 1N4148      |
 | J73          | Jump         |             |
 | R65          | Resistor     | 100 Ohm     |
 | R66          | Resistor     | 100 Ohm     |
