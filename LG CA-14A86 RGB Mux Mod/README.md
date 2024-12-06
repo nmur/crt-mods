@@ -46,7 +46,7 @@ Chassis: MC-64A
 
 ### Additional Steps  
 
-For the unpopulated IC202, bridge the following pins:  
+For the unpopulated IC202, bridge the following pins ([photo reference](./img/ic202.png)):  
 - 1 <-> 16  
 - 4 <-> 13  
 - 6 <-> 11  
