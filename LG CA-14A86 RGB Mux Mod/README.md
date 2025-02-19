@@ -26,6 +26,7 @@ Chassis: MC-64A
 | R208         | Resistor     | 75 Ohm      |
 | R222         | Resistor     | 75 Ohm      |
 | J61          | Jump         |             |
+| J68          | Jump         |             |
 | J77          | Jump         |             |
 | J78          | Jump         |             |
 | C204         | Electrolytic Capacitor | 10uF 16V           |
@@ -41,6 +42,7 @@ Chassis: MC-64A
 | D504         | Diode        | 1N4148      |
 | D505         | Diode        | 1N4148      |
 | J73          | Jump         |             |
+| R19          | Resistor     | 68 kOhm     |
 | R65          | Resistor     | 100 Ohm     |
 | R66          | Resistor     | 100 Ohm     |
 | R67          | Resistor     | 100 Ohm     |
