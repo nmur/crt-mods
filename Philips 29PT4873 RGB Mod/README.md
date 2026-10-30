@@ -1,10 +1,10 @@
 > [!WARNING]  
 > I am not an electrical engineer. I developed this mod using internet resources and examples, as well as trial and error. I am not responsible for any damage to your CRT or consoles, nor any injuries sustained.
-
-Chassis: L9.1A-AA
-Jungle: TDA8843
-Micom: SAA5565
-Tube: A68AJB82X01
+ 
+Chassis: L9.1A-AA  
+Jungle: TDA8843  
+Micom: SAA5565  
+Tube: A68AJB82X01  
 
 ## RGB Mod
 
